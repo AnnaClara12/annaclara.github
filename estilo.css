@@ -1,0 +1,15 @@
+body { background-color: rgb(235, 206, 170);
+       text-align: center;
+       margin: 0;}
+       
+#titulo { font-size:70px ;
+          background-color:black;
+          color: white;}
+
+#subtitulo { font-size: 30px;
+             color:black; }
+
+#text { padding-left: 20%;
+        padding-right: 20%;
+        font-size: 30px;
+        background-color:rgb(255, 233, 205);}
